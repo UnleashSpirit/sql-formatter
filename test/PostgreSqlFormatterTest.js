@@ -46,6 +46,7 @@ describe('PostgreSqlFormatter', () => {
     '~*',
     '!~*',
     '!~',
+    '||',
   ]);
   supportsJoin(format);
 
